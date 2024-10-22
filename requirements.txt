@@ -18,7 +18,7 @@ moviepy==1.0.3
 streamlit==1.36.0
 
 # Miscellaneous
-matplotlib==3.8.4
+matplotlib==3.7.5
 
 # Machine Learning Models
 xgboost==2.1.0
